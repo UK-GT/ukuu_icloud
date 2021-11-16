@@ -1,0 +1,10 @@
+name = "烏克萌"
+avatar = "images/UKU.jpg" # 右上Avatar image. Default to "images/profile.webp".
+bio = "烏克初學組社群次聯盟"
+company = "烏克麗麗、吉他彈唱交流社群"
+#location = "地球"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
+  #layout = "compact2"

@@ -1,0 +1,8 @@
+/**
+ * Create a file "assets/css/custom.cssjs" to customize CSS.
+ * PLEASE DO NOT MODIFY THIS FILE DIRECTLY.
+ **/
+ .archive-posts {
+   list-style: auto;
+   padding-left: 1.25rem;
+ }

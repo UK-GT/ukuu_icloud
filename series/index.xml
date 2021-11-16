@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>專欄 on UKGT</title>
+    <link>/series/</link>
+    <description>Recent content in 專欄 on UKGT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 12 Aug 2021 08:33:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeKa-學烏克-高雄</title>
+      <link>/series/leka-%E5%AD%B8%E7%83%8F%E5%85%8B-%E9%AB%98%E9%9B%84/</link>
+      <pubDate>Thu, 12 Aug 2021 08:33:57 +0000</pubDate>
+      
+      <guid>/series/leka-%E5%AD%B8%E7%83%8F%E5%85%8B-%E9%AB%98%E9%9B%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教學-Tutorial</title>
+      <link>/series/%E6%95%99%E5%AD%B8-tutorial/</link>
+      <pubDate>Thu, 12 Aug 2021 08:33:57 +0000</pubDate>
+      
+      <guid>/series/%E6%95%99%E5%AD%B8-tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

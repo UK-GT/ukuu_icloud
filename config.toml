@@ -1,0 +1,16 @@
+baseURL = 'http://ukgt.github.io'
+languageCode = 'zh-tw'
+title = '烏克麗麗、吉他彈唱交流社群'
+footnoteReturnLinkContents = '↩'
+
+[params]
+AuthorName = 'Jon Doe'
+GitHubUser = 'spf13'
+ListOfFoo = ['foo1', 'foo2']
+SidebarRecentLimit = 5
+Subtitle = 'Hugo is Absurdly Fast!'
+
+[permalinks]
+posts = '/:year/:month/:title/'
+#analytics
+googleAnalytics = "UA-1G-S0WKL7RD8P"
